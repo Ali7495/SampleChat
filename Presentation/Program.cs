@@ -1,4 +1,9 @@
+using Messaging.Infrastracture.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<UserManagementDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnection")));
 
 // Add services to the container.
 

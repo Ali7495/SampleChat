@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KwvZ63jGWMc=",
+  "dgSpecHash": "UoOC+izioP4=",
   "success": true,
-  "projectFilePath": "E:\\WorkShop\\PrivateMessaging\\Messaging.Domain\\Messaging.Domain.csproj",
+  "projectFilePath": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

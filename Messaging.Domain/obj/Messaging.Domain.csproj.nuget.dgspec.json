@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkShop\\PrivateMessaging\\Messaging.Domain\\Messaging.Domain.csproj": {}
+    "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj": {}
   },
   "projects": {
-    "E:\\WorkShop\\PrivateMessaging\\Messaging.Domain\\Messaging.Domain.csproj": {
+    "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkShop\\PrivateMessaging\\Messaging.Domain\\Messaging.Domain.csproj",
+        "projectUniqueName": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj",
         "projectName": "Messaging.Domain",
-        "projectPath": "E:\\WorkShop\\PrivateMessaging\\Messaging.Domain\\Messaging.Domain.csproj",
+        "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj",
         "packagesPath": "C:\\Users\\G10\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkShop\\PrivateMessaging\\Messaging.Domain\\obj\\",
+        "outputPath": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
