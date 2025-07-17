@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Messaging.Domain.UnitOfWorkPattern;
+using Messaging.Infrastracture.UnitOfWorkPattern;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +13,11 @@ namespace Messaging.IoC
     {
         public static void RegisterServices(IServiceCollection services)
         {
+            #region UnitOfWork
 
+            services.AddScoped<IUnitOfWork,UnitOfWork>();
+
+            #endregion
         }
     }
 }
