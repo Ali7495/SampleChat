@@ -9,7 +9,7 @@ namespace Messaging.Domain.Entities.UserPerson
     public class Person : BasicEntity
     {
         public string FirstName { get; set; }
-        public string LasrName { get; set; }
+        public string LastName { get; set; }
         public string FullName { get; set; }
 
 

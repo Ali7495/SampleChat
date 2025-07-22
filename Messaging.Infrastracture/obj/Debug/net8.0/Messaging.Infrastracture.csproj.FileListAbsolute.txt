@@ -1,0 +1,16 @@
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Infrastracture.deps.json
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Infrastracture.dll
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Infrastracture.pdb
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Domain.dll
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Domain.pdb
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.csproj.AssemblyReference.cache
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.AssemblyInfoInputs.cache
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.AssemblyInfo.cs
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.csproj.CoreCompileInputs.cache
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.sourcelink.json
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messagin.740544F1.Up2Date
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.dll
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\refint\Messaging.Infrastracture.dll
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.pdb
+E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\ref\Messaging.Infrastracture.dll

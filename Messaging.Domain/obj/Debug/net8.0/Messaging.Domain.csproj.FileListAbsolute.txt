@@ -1,0 +1,12 @@
+E:\WorkShop\SampleChat\Messaging.Domain\bin\Debug\net8.0\Messaging.Domain.deps.json
+E:\WorkShop\SampleChat\Messaging.Domain\bin\Debug\net8.0\Messaging.Domain.dll
+E:\WorkShop\SampleChat\Messaging.Domain\bin\Debug\net8.0\Messaging.Domain.pdb
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.AssemblyInfoInputs.cache
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.AssemblyInfo.cs
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.csproj.CoreCompileInputs.cache
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.sourcelink.json
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.dll
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\refint\Messaging.Domain.dll
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\Messaging.Domain.pdb
+E:\WorkShop\SampleChat\Messaging.Domain\obj\Debug\net8.0\ref\Messaging.Domain.dll
