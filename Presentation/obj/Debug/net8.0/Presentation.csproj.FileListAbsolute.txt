@@ -54,3 +54,12 @@ E:\WorkShop\SampleChat\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 E:\WorkShop\SampleChat\Presentation\obj\Debug\net8.0\Presentation.pdb
 E:\WorkShop\SampleChat\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
 E:\WorkShop\SampleChat\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\AutoMapper.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\FluentValidation.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\MediatR.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
