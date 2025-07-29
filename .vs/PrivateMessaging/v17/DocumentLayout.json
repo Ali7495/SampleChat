@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\WorkShop\\SampleChat\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B46563A9-5004-48AC-BD5F-CDA3EA2CC3B6}|Messaging.IoC\\Messaging.IoC.csproj|e:\\workshop\\samplechat\\messaging.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46563A9-5004-48AC-BD5F-CDA3EA2CC3B6}|Messaging.IoC\\Messaging.IoC.csproj|solutionrelative:messaging.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC574DA-0311-4480-BB92-226CF15A57EB}|Messaging.Application\\Messaging.Application.csproj|e:\\workshop\\samplechat\\messaging.application\\cqrs\\person\\command\\handlers\\personcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC574DA-0311-4480-BB92-226CF15A57EB}|Messaging.Application\\Messaging.Application.csproj|solutionrelative:messaging.application\\cqrs\\person\\command\\handlers\\personcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AC574DA-0311-4480-BB92-226CF15A57EB}|Messaging.Application\\Messaging.Application.csproj|e:\\workshop\\samplechat\\messaging.application\\cqrs\\person\\command\\personcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC574DA-0311-4480-BB92-226CF15A57EB}|Messaging.Application\\Messaging.Application.csproj|solutionrelative:messaging.application\\cqrs\\person\\command\\personcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A233C9E9-620F-4497-827E-66C89103DEE0}|Messaging.Domain\\Messaging.Domain.csproj|e:\\workshop\\samplechat\\messaging.domain\\entities\\userperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A233C9E9-620F-4497-827E-66C89103DEE0}|Messaging.Domain\\Messaging.Domain.csproj|solutionrelative:messaging.domain\\entities\\userperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonCommandHandler.cs",
-              "DocumentMoniker": "E:\\WorkShop\\SampleChat\\Messaging.Application\\CQRS\\Person\\Command\\Handlers\\PersonCommandHandler.cs",
-              "RelativeDocumentMoniker": "Messaging.Application\\CQRS\\Person\\Command\\Handlers\\PersonCommandHandler.cs",
-              "ToolTip": "E:\\WorkShop\\SampleChat\\Messaging.Application\\CQRS\\Person\\Command\\Handlers\\PersonCommandHandler.cs",
-              "RelativeToolTip": "Messaging.Application\\CQRS\\Person\\Command\\Handlers\\PersonCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:45:49.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Entities\\UserPerson\\Person.cs",
-              "RelativeDocumentMoniker": "Messaging.Domain\\Entities\\UserPerson\\Person.cs",
-              "ToolTip": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Entities\\UserPerson\\Person.cs",
-              "RelativeToolTip": "Messaging.Domain\\Entities\\UserPerson\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:44:14.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyContainer.cs",
-              "DocumentMoniker": "E:\\WorkShop\\SampleChat\\Messaging.IoC\\DependencyContainer.cs",
-              "RelativeDocumentMoniker": "Messaging.IoC\\DependencyContainer.cs",
-              "ToolTip": "E:\\WorkShop\\SampleChat\\Messaging.IoC\\DependencyContainer.cs",
-              "RelativeToolTip": "Messaging.IoC\\DependencyContainer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:29:27.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonCommand.cs",
-              "DocumentMoniker": "E:\\WorkShop\\SampleChat\\Messaging.Application\\CQRS\\Person\\Command\\PersonCommand.cs",
-              "RelativeDocumentMoniker": "Messaging.Application\\CQRS\\Person\\Command\\PersonCommand.cs",
-              "ToolTip": "E:\\WorkShop\\SampleChat\\Messaging.Application\\CQRS\\Person\\Command\\PersonCommand.cs",
-              "RelativeToolTip": "Messaging.Application\\CQRS\\Person\\Command\\PersonCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:27:07.142Z",
-              "EditorCaption": ""
             }
           ]
         }

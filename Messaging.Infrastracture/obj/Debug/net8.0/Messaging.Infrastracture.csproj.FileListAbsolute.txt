@@ -14,3 +14,5 @@ E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infra
 E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\refint\Messaging.Infrastracture.dll
 E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\Messaging.Infrastracture.pdb
 E:\WorkShop\SampleChat\Messaging.Infrastracture\obj\Debug\net8.0\ref\Messaging.Infrastracture.dll
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Application.dll
+E:\WorkShop\SampleChat\Messaging.Infrastracture\bin\Debug\net8.0\Messaging.Application.pdb

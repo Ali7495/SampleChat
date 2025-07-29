@@ -1,0 +1,26 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.VC.db
+
+# Ignore build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.log
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Others
+*.json
+*.csproj.user
+*.ncb
+*.sdf
+*.opensdf
+*.VC.opendb

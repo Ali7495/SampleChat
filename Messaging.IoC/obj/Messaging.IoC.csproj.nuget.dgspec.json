@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\WorkShop\\SampleChat\\Messaging.Infrastracture\\Messaging.Infrastracture.csproj": {
-                "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Infrastracture\\Messaging.Infrastracture.csproj"
+              "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj": {
+                "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj"
               }
             }
           }
@@ -189,6 +189,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "E:\\WorkShop\\SampleChat\\Messaging.Application\\Messaging.Application.csproj": {
+                "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Application\\Messaging.Application.csproj"
+              },
               "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj": {
                 "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj"
               }
@@ -270,6 +273,9 @@
             "projectReferences": {
               "E:\\WorkShop\\SampleChat\\Messaging.Application\\Messaging.Application.csproj": {
                 "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Application\\Messaging.Application.csproj"
+              },
+              "E:\\WorkShop\\SampleChat\\Messaging.Infrastracture\\Messaging.Infrastracture.csproj": {
+                "projectPath": "E:\\WorkShop\\SampleChat\\Messaging.Infrastracture\\Messaging.Infrastracture.csproj"
               }
             }
           }

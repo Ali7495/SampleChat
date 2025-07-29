@@ -2,8 +2,6 @@ E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Applicat
 E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Application.dll
 E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Application.pdb
 E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Domain.dll
-E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Infrastracture.dll
-E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Infrastracture.pdb
 E:\WorkShop\SampleChat\Messaging.Application\bin\Debug\net8.0\Messaging.Domain.pdb
 E:\WorkShop\SampleChat\Messaging.Application\obj\Debug\net8.0\Messaging.Application.csproj.AssemblyReference.cache
 E:\WorkShop\SampleChat\Messaging.Application\obj\Debug\net8.0\Messaging.Application.GeneratedMSBuildEditorConfig.editorconfig

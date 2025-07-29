@@ -346,7 +346,7 @@
           "FluentValidation": "12.0.0",
           "FluentValidation.DependencyInjectionExtensions": "12.0.0",
           "MediatR": "13.0.0",
-          "Messaging.Infrastracture": "1.0.0",
+          "Messaging.Domain": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.3.0"
         },
         "runtime": {
@@ -360,6 +360,7 @@
       },
       "Messaging.Infrastracture/1.0.0": {
         "dependencies": {
+          "Messaging.Application": "1.0.0",
           "Messaging.Domain": "1.0.0",
           "Npgsql": "9.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4"
@@ -371,6 +372,7 @@
       "Messaging.IoC/1.0.0": {
         "dependencies": {
           "Messaging.Application": "1.0.0",
+          "Messaging.Infrastracture": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "9.0.6"
         },
         "runtime": {

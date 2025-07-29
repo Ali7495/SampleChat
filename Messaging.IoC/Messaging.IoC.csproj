@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Messaging.Application\Messaging.Application.csproj" />
+    <ProjectReference Include="..\Messaging.Infrastracture\Messaging.Infrastracture.csproj" />
   </ItemGroup>
 
 </Project>
