@@ -63,3 +63,8 @@ E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abs
 E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkShop\SampleChat\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

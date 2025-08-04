@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dapkNOvhauY=",
+  "dgSpecHash": "wGbEvQg4YTk=",
   "success": true,
   "projectFilePath": "E:\\WorkShop\\SampleChat\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G10\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
+    "C:\\Users\\G10\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
@@ -43,12 +44,5 @@
     "C:\\Users\\G10\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.13.0\\system.identitymodel.tokens.jwt.8.13.0.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\WorkShop\\SampleChat\\Presentation\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

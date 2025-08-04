@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iWhDuFMWVVc=",
+  "dgSpecHash": "wsbWoRjn7l4=",
   "success": true,
   "projectFilePath": "E:\\WorkShop\\SampleChat\\Messaging.IoC\\Messaging.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G10\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
+    "C:\\Users\\G10\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\G10\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
