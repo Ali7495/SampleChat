@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UoOC+izioP4=",
+  "dgSpecHash": "QRfAIFjcXrk=",
   "success": true,
-  "projectFilePath": "E:\\WorkShop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Workshop\\SampleChat\\Messaging.Domain\\Messaging.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

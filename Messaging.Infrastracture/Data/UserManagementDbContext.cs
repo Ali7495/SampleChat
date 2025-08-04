@@ -1,4 +1,6 @@
-﻿using Messaging.Domain.Entities.UserPerson;
+﻿using Messaging.Domain.Entities;
+using Messaging.Domain.Entities.UserPerson;
+using Messaging.Domain.Services.CurrentUser;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,7 +12,12 @@ namespace Messaging.Infrastracture.Data
 {
     public class UserManagementDbContext : DbContext
     {
-        public UserManagementDbContext(DbContextOptions<UserManagementDbContext> options) : base(options) { }
+        private readonly ICurrentUserService _currentUserService;
+
+        public UserManagementDbContext(DbContextOptions<UserManagementDbContext> options, ICurrentUserService currentUserService) : base(options)
+        {
+            _currentUserService = currentUserService;
+        }
 
         #region PersonUser
 
@@ -53,6 +60,30 @@ namespace Messaging.Infrastracture.Data
             modelBuilder.Entity<User>().Property(u => u.Sort).Metadata.SetAfterSaveBehavior(Microsoft.EntityFrameworkCore.Metadata.PropertySaveBehavior.Ignore);
 
             #endregion
+        }
+
+        public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            var entries = ChangeTracker.Entries<BasicEntity>();
+
+            foreach (var entry in entries)
+            {
+                if (entry.State == EntityState.Added)
+                {
+                    entry.Entity.CreatedBy = _currentUserService?.UserId;
+                    entry.Entity.Id = Guid.NewGuid();
+                    entry.Entity.IsDeleted = false;
+                    entry.Entity.CreatedDate = DateTime.Now;
+                }
+
+                if (entry.State == EntityState.Modified)
+                {
+                    entry.Entity.UpdatedDate = DateTime.Now;
+                    entry.Entity.UpdatedBy = _currentUserService?.UserId;
+                }
+            }
+
+            return base.SaveChangesAsync(cancellationToken);
         }
     }
 }

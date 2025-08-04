@@ -13,6 +13,7 @@ namespace Messaging.Domain.UnitOfWorkPattern
         #region UserPerson
 
         IPersonRepository PersonRepository { get; }
+        IUserRepository UserRepository { get; }
 
         #endregion
 
